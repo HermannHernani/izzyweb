@@ -87,6 +87,7 @@
     <session id="-881502295">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.opened" value="1" />
         </counts>
@@ -108,8 +109,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mapa.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="254">
-              <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+            <state relative-caret-position="346">
+              <caret line="99" column="75" lean-forward="true" selection-start-line="99" selection-start-column="75" selection-end-line="99" selection-end-column="75" />
             </state>
           </provider>
         </entry>
@@ -225,12 +226,12 @@
       <workItem from="1534966231701" duration="8289000" />
       <workItem from="1535135794792" duration="4529000" />
       <workItem from="1536091027758" duration="862000" />
-      <workItem from="1536861459979" duration="242000" />
+      <workItem from="1536861459979" duration="619000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15262000" />
+    <option name="totallyTimeSpent" value="15639000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="977" extended-state="0" />
@@ -303,8 +304,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mapa.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="254">
-          <caret line="95" lean-forward="true" selection-start-line="95" selection-end-line="95" />
+        <state relative-caret-position="346">
+          <caret line="99" column="75" lean-forward="true" selection-start-line="99" selection-start-column="75" selection-end-line="99" selection-end-column="75" />
         </state>
       </provider>
     </entry>
